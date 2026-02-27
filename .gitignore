@@ -1,0 +1,7 @@
+node_modules/
+dist/
+.env
+server/db/triggervault.db
+server/db/triggervault.db-shm
+server/db/triggervault.db-wal
+server/uploads/audio/

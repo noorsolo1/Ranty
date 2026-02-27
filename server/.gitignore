@@ -1,0 +1,4 @@
+node_modules/
+uploads/audio/
+db/triggervault.db
+.env

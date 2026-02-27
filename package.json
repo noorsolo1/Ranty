@@ -1,0 +1,11 @@
+{
+  "name": "triggervault",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "install:all": "cd server && npm install && cd ../client && npm install",
+    "seed": "cd server && npm run seed",
+    "server": "cd server && npm start",
+    "client": "cd client && npm run dev"
+  }
+}
